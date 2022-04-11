@@ -4,7 +4,12 @@ using namespace std;
 
 /*
  * int arr[10] = {1, 4, 5, 6, 7, 8, 31, 33, 54, 65};
- * cout << Binary_Search(arr, 33, 10);
+ *
+ * cout << Binary_Search(arr, 8, 10)<<endl;
+ * -->found in 5
+ *
+ * cout << Binary_Search_Recursive(arr, 8, 0,9);
+ * -->not found return -1
  */
 
 int Binary_Search(int *arr, int target, const int capacity) {
@@ -21,6 +26,8 @@ int Binary_Search(int *arr, int target, const int capacity) {
     }
     return -1;
 }
+
+//遞迴版本
 
 int Binary_Search_Recursive(int *arr, int target, const int left, const int right) {
     if (left <= right) {

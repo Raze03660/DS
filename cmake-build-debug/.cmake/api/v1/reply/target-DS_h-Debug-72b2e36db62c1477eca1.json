@@ -100,7 +100,9 @@
 			"sourceIndexes" : 
 			[
 				1,
-				2
+				2,
+				3,
+				4
 			]
 		}
 	],
@@ -120,6 +122,16 @@
 		{
 			"backtrace" : 1,
 			"path" : "DS_h/BinarySearch.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "DS_h/HaoniTower.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "DS_h/InfixToPrefix.h",
 			"sourceGroupIndex" : 1
 		}
 	],
