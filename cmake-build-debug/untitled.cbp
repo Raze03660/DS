@@ -94,6 +94,9 @@
 		<Unit filename="C:/Users/Raze/CLionProjects/DS/DS_h/Rectangle.h">
 			<Option target="DS_h"/>
 		</Unit>
+		<Unit filename="C:/Users/Raze/CLionProjects/DS/DS_h/TrainProblem.h">
+			<Option target="DS_h"/>
+		</Unit>
 		<Unit filename="C:/Users/Raze/CLionProjects/DS/main.cpp">
 			<Option target="DS_h"/>
 		</Unit>

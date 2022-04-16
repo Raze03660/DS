@@ -131,19 +131,15 @@ CMakeFiles/DS_h.dir/main.cpp.obj: C:\Users\Raze\CLionProjects\DS\main.cpp \
  C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ostream.tcc \
  C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream \
  C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc \
+ C:\Users\Raze\CLionProjects\DS\DS_h/TrainProblem.h \
+ C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/vector \
+ C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_uninitialized.h \
+ C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_vector.h \
+ C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_bvector.h \
+ C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/vector.tcc \
  C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/stack \
  C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/deque \
- C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_uninitialized.h \
  C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_deque.h \
  C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/deque.tcc \
  C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_stack.h \
- C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uses_allocator.h \
- C:\Users\Raze\CLionProjects\DS\DS_h/InfixToPrefix.h \
- C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/algorithm \
- C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/utility \
- C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_relops.h \
- C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_algo.h \
- C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/algorithmfwd.h \
- C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_heap.h \
- C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_tempbuf.h \
- C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uniform_int_dist.h
+ C:/Users/Raze/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uses_allocator.h
